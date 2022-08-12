@@ -15,7 +15,6 @@ int main() {
 		scanf_s("%d", &list[i], sizeof(list[i]));
 
 
-
 	for (int i = 0; i < n; i++) {
 
 		flag = 0;
