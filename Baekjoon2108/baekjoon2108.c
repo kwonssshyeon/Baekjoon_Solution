@@ -61,7 +61,6 @@ int main() {
 
 
 
-
 int sort(int* data, int n) {
 	int i, j, key;
 
