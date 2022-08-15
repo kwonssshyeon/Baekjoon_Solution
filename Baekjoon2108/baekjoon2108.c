@@ -14,6 +14,7 @@ int main() {
 	int flag = 1;
 	double sum = 0.0;
 
+
 	MALLOC(data, sizeof(int*) * n);
 
 	for (int i = 0; i < n; i++) {
